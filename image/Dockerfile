@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Phusion <info@phusion.nl>
+MAINTAINER John Wooten <jwooten@cloudconsulted.com>
 
 ENV HOME /root
 ADD . /build
