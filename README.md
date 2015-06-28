@@ -1,3 +1,5 @@
+Note: this is a clone of phusion/baseimage-docker to facilitate trusted builds via index.docker.io.
+
 # A minimal Ubuntu base image modified for Docker-friendliness
 
 Baseimage-docker is a special [Docker](https://www.docker.com) image that is configured for correct use within Docker containers. It is Ubuntu, plus:
