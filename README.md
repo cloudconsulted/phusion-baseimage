@@ -1,4 +1,4 @@
-[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-logox250.png"  align="right">](http://cloudconsulted.com)
+[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-logox250.png"  align="right">](http://www.cloudconsulted.com)
 Note: this is a clone of phusion/baseimage-docker to facilitate trusted builds via index.docker.io.
 
 # A minimal Ubuntu base image modified for Docker-friendliness
