@@ -1,3 +1,4 @@
+[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-app-icon.png" align="right">](http://cloudconsulted.com)
 Note: this is a clone of phusion/baseimage-docker to facilitate trusted builds via index.docker.io.
 
 # A minimal Ubuntu base image modified for Docker-friendliness
